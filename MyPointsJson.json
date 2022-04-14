@@ -4,23 +4,23 @@
       {
          "geometry" : {
             "location" : {
-               "lat" : 41.6503721,
-               "lng" : 2.7391041
+               "lat" : 39.0266975,
+               "lng" : 76.6758092
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 41.6517951802915,
-                  "lng" : 2.740249130291502
+                  "lat" : 39.0266975,
+                  "lng" : 76.6758092
                },
                "southwest" : {
-                  "lat" : 41.6490972197085,
-                  "lng" : 2.737551169708498
+                  "lat" : 39.0266975,
+                  "lng" : 76.6758092
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
          "id" : "e4d2b4caccffaf5bdc06816cf5f682d3c05ac9b4",
-         "name" : "Parc polivalent Francesc Macià",
+         "name" : "Bush",
          "opening_hours" : {
             "open_now" : true
          },
@@ -42,29 +42,29 @@
          "rating" : 4.5,
          "reference" : "ChIJh77eO9U9uxIRaUAeu1LgFMg",
          "scope" : "GOOGLE",
-         "types" : [ "park", "point_of_interest", "establishment" ],
+         "types" : [ "points", "point_of_interest", "establishment" ],
          "vicinity" : "Avinguda de la Costa Brava, 77, Malgrat de Mar"
       },
       {
          "geometry" : {
             "location" : {
-               "lat" : 41.6480954,
-               "lng" : 2.7402114
+               "lat" : 39.0268567,
+               "lng" : 76.6766065
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 41.64944438029149,
-                  "lng" : 2.741560380291502
+                  "lat" : 39.0268567,
+                  "lng" : 76.6766065
                },
                "southwest" : {
-                  "lat" : 41.6467464197085,
-                  "lng" : 2.738862419708498
+                  "lat" : 39.0268567,
+                  "lng" : 76.6766065
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
          "id" : "f046330d5ec31ec2cae9b6d477117db97576e377",
-         "name" : "Парк Кастель",
+         "name" : "Bush2",
          "opening_hours" : {
             "open_now" : true
          },
@@ -86,29 +86,29 @@
          "rating" : 4.8,
          "reference" : "ChIJI3IphH8-uxIRVjGWvfBDyHY",
          "scope" : "GOOGLE",
-         "types" : [ "park", "point_of_interest", "establishment" ],
+         "types" : [ "points", "point_of_interest", "establishment" ],
          "vicinity" : "Malgrat de Mar"
       },
       {
          "geometry" : {
             "location" : {
-               "lat" : 41.6485716,
-               "lng" : 2.7406972
+               "lat" : 39.0266975,
+               "lng" : 76.6766065
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 41.6499522302915,
-                  "lng" : 2.741945630291502
+                  "lat" : 39.0266975,
+                  "lng" : 76.6766065
                },
                "southwest" : {
-                  "lat" : 41.6472542697085,
-                  "lng" : 2.739247669708498
+                  "lat" : 39.0266975,
+                  "lng" : 76.6766065
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
          "id" : "1d9d44498dfbe21c0648ac84bb744f8c0b504fe4",
-         "name" : "Parc del Castell",
+         "name" : "Bush3",
          "opening_hours" : {
             "open_now" : true
          },
@@ -130,29 +130,29 @@
          "rating" : 4.3,
          "reference" : "ChIJyWqB5H8-uxIRnyccnEB1tWk",
          "scope" : "GOOGLE",
-         "types" : [ "park", "point_of_interest", "establishment" ],
+         "types" : [ "points", "point_of_interest", "establishment" ],
          "vicinity" : "Carrer de Ponent, 58, Malgrat de Mar"
       },
       {
          "geometry" : {
             "location" : {
-               "lat" : 41.65036889999999,
-               "lng" : 2.7387012
+               "lat" : 39.0266975,
+               "lng" : 76.6766065
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 41.6517330802915,
-                  "lng" : 2.740008330291502
+                  "lat" : 39.0266975,
+                  "lng" : 76.6766065
                },
                "southwest" : {
-                  "lat" : 41.6490351197085,
-                  "lng" : 2.737310369708498
+                  "lat" : 39.0266975,
+                  "lng" : 76.6766065
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
          "id" : "505e61fd02e5c93f011df301919f0563629e9b4a",
-         "name" : "Parque De MALGRAT",
+         "name" : "Bush3",
          "opening_hours" : {
             "open_now" : true
          },
@@ -174,7 +174,7 @@
          "rating" : 4.7,
          "reference" : "ChIJFx3DL9U9uxIR40Yn5myL_PI",
          "scope" : "GOOGLE",
-         "types" : [ "park", "point_of_interest", "establishment" ],
+         "types" : [ "points", "point_of_interest", "establishment" ],
          "vicinity" : "Avinguda de la Costa Brava, 116, Malgrat de Mar"
       }
    ],
