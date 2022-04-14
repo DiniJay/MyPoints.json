@@ -42,7 +42,7 @@
          "rating" : 4.5,
          "reference" : "ChIJh77eO9U9uxIRaUAeu1LgFMg",
          "scope" : "GOOGLE",
-         "types" : [ "points", "point_of_interest", "establishment" ],
+         "types" : [ "park", "point_of_interest", "establishment" ],
          "vicinity" : "Avinguda de la Costa Brava, 77, Malgrat de Mar"
       },
       {
@@ -86,7 +86,7 @@
          "rating" : 4.8,
          "reference" : "ChIJI3IphH8-uxIRVjGWvfBDyHY",
          "scope" : "GOOGLE",
-         "types" : [ "points", "point_of_interest", "establishment" ],
+         "types" : [ "park", "point_of_interest", "establishment" ],
          "vicinity" : "Malgrat de Mar"
       },
       {
@@ -130,7 +130,7 @@
          "rating" : 4.3,
          "reference" : "ChIJyWqB5H8-uxIRnyccnEB1tWk",
          "scope" : "GOOGLE",
-         "types" : [ "points", "point_of_interest", "establishment" ],
+         "types" : [ "park", "point_of_interest", "establishment" ],
          "vicinity" : "Carrer de Ponent, 58, Malgrat de Mar"
       },
       {
@@ -174,7 +174,7 @@
          "rating" : 4.7,
          "reference" : "ChIJFx3DL9U9uxIR40Yn5myL_PI",
          "scope" : "GOOGLE",
-         "types" : [ "points", "point_of_interest", "establishment" ],
+         "types" : [ "park", "point_of_interest", "establishment" ],
          "vicinity" : "Avinguda de la Costa Brava, 116, Malgrat de Mar"
       }
    ],
